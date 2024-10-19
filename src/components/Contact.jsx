@@ -12,18 +12,18 @@ const Contact = () => {
         <div class="mt-6 primary-color w-[100%] rounded-md">
             <div class="p-10">
 
-            <form action="https://getform.io/f/lbjkqyra" method="POST">
+            <form action="https://getform.io/f/bmdpqwxa" method="POST">
               <div class="grid grid-col-1 sm:grid-col-2 gap-x-5 gap-y-4">
                 <div>
                   <div class="mt-2.5">
-                    <input type="text" name="name" placeholder="Your Name"
+                    <input type="text" name="name" placeholder="Name"
                      class="bg-gray w-full px-4 py-4 border border-black-700 rounded-md focus:outline-none focus:border-pint-600" />
                   </div>
                 </div> 
 
                 <div>
                   <div class="mt-2.5">
-                    <input type="email" name="email" id="" placeholder="Your Email address"
+                    <input type="email" name="email" id="" placeholder="Email address"
                      class="bg-gray w-full px-4 py-4 border border-black-700 rounded-md focus:outline-none focus:border-pint-600" />
                   </div>
                </div>
@@ -31,7 +31,7 @@ const Contact = () => {
 
               <div class="sm:col-span-2">
                   <div class="mt-2.5">
-                      <textarea name="message" id="" placeholder="Your message"
+                      <textarea name="message" id="" placeholder="Message"
                        class="bg-gray w-full px-4 py-4 border border-black-700 rounded-md focus:outline-none focus:border-pint-600"
                        rows="4" >
                       </textarea>

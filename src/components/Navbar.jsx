@@ -36,7 +36,7 @@ const Navbar = () => {
   return (
     <div className='text-black-800 h-[100px] max-w-full mx-auto flex justify-between items-center relative'>
       {/* Name on the left */}
-      <h1 className='text-3xl font-bold mx-3 sm:ml-[10px] md:ml-[80px] gradient-text text-color'>M. Dan</h1>
+      <h1 className='text-3xl font-bold mx-3 sm:ml-[10px] md:ml-[80px] gradient-text text-color'>K. Collins</h1>
 
       {/* Menu icon on the right */}
       <div className="flex items-center">
